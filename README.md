@@ -13,4 +13,4 @@
 
 
 O código da calculadora funciona de maneira simples e direta.
-Irá solicitar o primeiro número, seguido da operação. Utilize
+Primeio, será solicitado a operação matemática desejada. Por favor, utilize as terminações corretas junto aos seus acentos: soma, subtração, divisão, multiplicação
